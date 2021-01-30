@@ -1,0 +1,9 @@
+REGEDIT 4
+
+[HKEY_CLASSES_ROOT\.asm]
+@="Assembly Source File"
+
+[HKEY_CLASSES_ROOT\.asm\Assembly Source File]
+
+[HKEY_CLASSES_ROOT\.asm\Assembly Source File\ShellNew]
+"FileName"="Assembly Source File"
